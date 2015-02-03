@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=h\ k\ r
+comment0.target=MonteCarlo(double,\ double,\ double)
+comment0.text=@param\ r\=\ radius\ of\ circle\r\n\ @param\ k\=\ half\ of\ length\ of\ rectangle\r\n\ @param\ h\=\ half\ of\ width\ of\ rectangle\r\n
+comment1.params=
+comment1.target=double\ nextRainDrop_x()
+comment1.text=\r\n\ predicts\ the\ x-coordinate\ of\ a\ random\ raindrop\r\n
+comment2.params=
+comment2.target=double\ nextRainDrop_y()
+comment2.text=\r\n\ predicts\ the\ y-coordinate\ of\ a\ randoom\ raindrop\r\n
+comment3.params=x\ y
+comment3.target=boolean\ insideCircle(double,\ double)
+comment3.text=\r\n\ checks\ to\ see\ if\ a\ point\ is\ in\ or\ on\ the\ circle\r\n\ @param\ x\ \=\ x-coordinate\r\n\ @param\ y\ \=\ y-coordinate\r\n
+numComments=4
